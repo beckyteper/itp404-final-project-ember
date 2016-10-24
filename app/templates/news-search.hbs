@@ -1,0 +1,8 @@
+<h3>Search for a particular topic in recent news articles</h3>
+
+<form onsubmit="{{action 'searchArticles'}}">
+  Topic: {{input type="text" value=topic}}
+  <button type="submit">Search</button>
+</form>
+
+{{outlet}}
