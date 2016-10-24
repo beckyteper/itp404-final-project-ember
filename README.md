@@ -1,3 +1,9 @@
+Final Project - Newsworthy
+
+This app will allow users to search for a specific topic in many news articles from a variety of sources. Users will input their desired topic and the app will return a list of articles related to that topic. This app will use APIs from different news sources including The New York Times, CNN, and NPR. Users will also be able to create accounts to save their favorite searches.
+
+
+
 # Finalproject
 
 This README outlines the details of collaborating on this Ember application.
